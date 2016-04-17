@@ -1,4 +1,4 @@
-layout_spectrum: 1
+name: John Un
 opengraph:
   image: null
   type: null
@@ -9,24 +9,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.04408560530282557
-  brandStrength: 0.6130713843740523
-  rhythmicContrast: 0.002821832895278931
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+  brandStrength: 0.4957035
   lightness: 0.7007269621826708
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#565656'
+    - '#919191'
+    - '#AFAFAF'
+  rhythmicContrast: 0.002821832895278931
 typography_spectrum: 0.6353384
 cta:
   bucket: null
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: John Un
+layout_spectrum: 1
