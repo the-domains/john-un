@@ -1,4 +1,7 @@
-name: John Un
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -9,32 +12,29 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-purpose: []
+layout_spectrum: 1
 color:
   saturation: 0.04408560530282557
   brandStrength: 0.4957035
-  lightness: 0.7007269621826708
+  rhythmicContrast: 0.002821832895278931
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#565656'
     - '#919191'
     - '#AFAFAF'
-  rhythmicContrast: 0.002821832895278931
-typography_spectrum: 0.6353384
+  lightness: 0.7007269621826708
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 favicon: null
-layout_spectrum: 1
+name: John Un
+typography_spectrum: 0.6353384
